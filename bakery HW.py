@@ -1,5 +1,5 @@
-muffins = 3
-cupcakes = 3
+muffins = 10
+cupcakes = 10
 while True:
     if muffins > 0 and cupcakes > 0:
         customer_input_2 = "Would you like to buy a muffin or a cupcake? "
